@@ -1,0 +1,6 @@
+if (moussecliced){
+printf("welcome");
+}
+else{
+printf("ghayarha");
+}
